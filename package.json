@@ -4,9 +4,15 @@
   "description": "example",
   "type": "module",
   "main": "src/index.js",
+  
   "scripts": {
     "test": "node src/js/joker.js"
   },
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mokki78/enviroment.git"
