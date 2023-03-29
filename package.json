@@ -1,0 +1,23 @@
+{
+  "name": "enviroment",
+  "version": "1.0.0",
+  "description": "education",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mokki78/enviroment.git"
+  },
+  "keywords": [
+    "test",
+    "enviroment"
+  ],
+  "author": "Monika Saele, mokki_78@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mokki78/enviroment/issues"
+  },
+  "homepage": "https://github.com/Mokki78/enviroment#readme"
+}
